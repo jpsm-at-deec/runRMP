@@ -31,3 +31,7 @@ git clone
 cd 
 
 catkin_make_isolated
+
+source ./install_isolated/setup.bash
+
+./install_isolated/bin/segwayrmp_gui
