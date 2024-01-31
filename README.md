@@ -1,6 +1,13 @@
 # runRMP
 
-sources:
+something on the system:
+
+uname -r
+5.15.0-92-generic
+rosversion -d
+noetic
+
+about the sources:
 
 [segway_rmp](https://github.com/segwayrmp/segway_rmp.git)
 
@@ -8,7 +15,7 @@ sources:
 
 [libsegwayrmp](https://github.com/segwayrmp/libsegwayrmp.git)
 
-deps:
+dependencies for gui:
 
 libsdl1.2-dev
-Qt5
+qt5-default
