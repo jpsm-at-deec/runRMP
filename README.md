@@ -23,3 +23,11 @@ noetic
 libsdl1.2-dev
 
 qt5-default
+
+## provisional instructions:
+
+git clone
+
+cd 
+
+catkin_make_isolated
