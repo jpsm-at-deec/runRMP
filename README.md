@@ -7,3 +7,8 @@ sources:
 [serial](https://github.com/wjwwood/serial.git)
 
 [libsegwayrmp](https://github.com/segwayrmp/libsegwayrmp.git)
+
+deps:
+
+libsdl1.2-dev
+Qt5

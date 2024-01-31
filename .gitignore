@@ -3,4 +3,5 @@ build_isolated/
 devel/
 devel_isolated/
 .catkin_workspace
+install_isolated/
 
