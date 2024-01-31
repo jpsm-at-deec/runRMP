@@ -35,3 +35,5 @@ catkin_make_isolated
 source ./install_isolated/setup.bash
 
 ./install_isolated/bin/segwayrmp_gui
+
+![segwayRMP DEMO](https://github.com/jpsm-at-deec/runRMP/blob/main/imgs/demo.png?raw=true)
