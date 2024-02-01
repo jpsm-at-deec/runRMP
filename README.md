@@ -132,5 +132,8 @@ source ./install_isolated/setup.bash
         this->heartbeat_thread_id = this->id + "_heartbeat_thread";
     ...
 
+--------------------------------------------------------------------------------
+
+![schematic](https://github.com/jpsm-at-deec/runRMP/blob/main/imgs/runRMP_drawing.png?raw=true)
 
 
