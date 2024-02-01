@@ -99,3 +99,7 @@ source ./install_isolated/setup.bash
         
         Parameters
             operational_mode	This must be disabled, tractor, or balanced. 
+
+## side note
+
+![Institut de Robòtica i Informàtica Industrial](https://gitlab.iri.upc.edu/labrobotica/drivers/segway_rmp_200/)
