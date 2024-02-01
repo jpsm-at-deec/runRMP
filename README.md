@@ -121,3 +121,16 @@ source ./install_isolated/setup.bash
     ->ui_battery
     ->powerbase_battery
 
+...
+
+    void CSegwayRMP200::init_threads(void)
+    {
+        this->thread_server = CThreadServer::instance();
+
+        this->read_thread_id      = this->id + "_read_thread";
+        this->command_thread_id   = this->id + "_command_thread";
+        this->heartbeat_thread_id = this->id + "_heartbeat_thread";
+    ...
+
+
+
