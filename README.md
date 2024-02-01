@@ -103,3 +103,21 @@ source ./install_isolated/setup.bash
 ## side note
 
 [Institut de Robòtica i Informàtica Industrial](https://gitlab.iri.upc.edu/labrobotica/drivers/segway_rmp_200/)
+
+    ->right_wheel_velocity
+    ->left_wheel_velocity
+    ->pitch_angle
+    ->pitch_rate
+    ->roll_angle
+    ->roll_rate
+    ->yaw_rate
+    ->left_wheel_displ
+    ->right_wheel_displ
+    ->forward_displ
+    ->yaw_displ
+    ->uptime
+    ->left_torque
+    ->right_torque
+    ->ui_battery
+    ->powerbase_battery
+
