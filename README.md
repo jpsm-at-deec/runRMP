@@ -102,4 +102,4 @@ source ./install_isolated/setup.bash
 
 ## side note
 
-![Institut de Robòtica i Informàtica Industrial](https://gitlab.iri.upc.edu/labrobotica/drivers/segway_rmp_200/)
+[Institut de Robòtica i Informàtica Industrial](https://gitlab.iri.upc.edu/labrobotica/drivers/segway_rmp_200/)
