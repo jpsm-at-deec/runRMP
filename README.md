@@ -146,6 +146,8 @@ source ./install_isolated/setup.bash
 
 ![schematic](https://github.com/jpsm-at-deec/runRMP/blob/main/imgs/Screenshot_connected.png?raw=true)
 
+![schematic](https://github.com/jpsm-at-deec/runRMP/blob/main/imgs/example.gif)
+
 
 
 
