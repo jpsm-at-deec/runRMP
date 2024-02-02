@@ -142,4 +142,10 @@ source ./install_isolated/setup.bash
 
 ![schematic](https://github.com/jpsm-at-deec/runRMP/blob/main/imgs/runRMP_drawing2.png?raw=true)
 
+## example successful run:
+
+![schematic](https://github.com/jpsm-at-deec/runRMP/blob/main/imgs/Screenshot_connected.png?raw=true)
+
+
+
 
