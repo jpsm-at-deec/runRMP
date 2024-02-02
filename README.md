@@ -36,6 +36,12 @@ source ./install_isolated/setup.bash
 
 ./install_isolated/bin/segwayrmp_gui
 
+./src/libsegwayrmp/bin/segwayrmp_interactive_example serial /dev/ttyUSB0
+
+./src/libsegwayrmp/bin/segwayrmp_interactive_example usb index 0
+
+./src/libsegwayrmp/bin/segwayrmp_interactive_example usb serial_number "00000056"
+
 ![segwayRMP DEMO](https://github.com/jpsm-at-deec/runRMP/blob/main/imgs/demo.png?raw=true)
 
 ## snippets from a segwayrmp example
